@@ -24,7 +24,9 @@
 
 bash
 Languages:   HTML • CSS • Python • C
+
 Tools:       VS Code • Git & GitHub
+
 Learning:    JavaScript • AI/ML • Tailwind CSS
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=its-tan19&show_icons=true&theme=radical" width="48%"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=its-tan19&theme=radical" width="48%"/> </p>
